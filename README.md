@@ -1,4 +1,4 @@
-#Stress Detection Using Deep Learning
+# Stress Detection Using Deep Learning
 
 This project focuses on detecting human stress levels using physiological biosignals and a deep learning-based classification model. We utilize the WESAD dataset, a rich multimodal dataset designed for wearable stress and affect detection, and apply a deep neural network (DNN) to classify stress states accurately.
 
