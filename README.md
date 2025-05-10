@@ -17,6 +17,7 @@ We used the **WESAD dataset** (Wearable Stress and Affect Detection), which incl
 * ECG, EDA, EMG, Temperature, Respiration, and Accelerometer data.
 * Data collected from 15 subjects wearing chest and wrist devices.
 * Labeled segments: **Baseline** and **Stress**.
+* We used ECG Signals 
 
 📄 More on the dataset:
 [https://ubicomp.eti.uni-siegen.de/home/datasets/wesad.html](https://ubicomp.eti.uni-siegen.de/home/datasets/wesad.html)
